@@ -1,5 +1,4 @@
 import { GeneratedImageProps } from "@/interfaces";
-// import Image from "next/image";
 
 const ImageCard: React.FC<GeneratedImageProps> = ({
   imageUrl,
